@@ -1,1 +1,1 @@
-# A principio o código está foi visto em aula.
+# A principio o código está igual como foi visto em aula.
